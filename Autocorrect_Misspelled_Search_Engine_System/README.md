@@ -78,7 +78,7 @@ An **Autocorrect Misspelled Word Search Engine System** built using **Python** a
 ## 🎨 Customization
 
 - **Change Theme**:  
-  Modify the custom CSS in the `st.markdown` section of `app.py` to change the background color, text color, or button styles.
+  Modify the custom CSS in the `st.markdown` section of `web.py` to change the background color, text color, or button styles.
 
 - **Use a Different Corpus**:  
   Replace `big.txt` with your own text file to train the system on a different vocabulary.
@@ -91,7 +91,7 @@ An **Autocorrect Misspelled Word Search Engine System** built using **Python** a
 
 - 🐍 **Python**: Core programming language.
 - 🎈 **Streamlit**: For building the web interface.
-- 📚 **NLTK**: For text processing (optional, if needed).
+- 📚 **NLTK**: For text processing.
 - 📊 **Collections**: For counting word frequencies.
 - 🔍 **Regex**: For tokenizing the corpus.
 
