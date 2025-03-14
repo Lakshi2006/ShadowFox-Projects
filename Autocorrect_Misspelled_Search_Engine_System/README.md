@@ -57,7 +57,7 @@ An **Autocorrect Misspelled Word Search Engine System** built using **Python** a
 
 4. **▶️ Run the Application**:
    ```bash
-   streamlit run app.py
+   streamlit run web.py
    ```
 
 5. **🌐 Access the App**:
